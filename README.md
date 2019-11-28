@@ -24,8 +24,11 @@ By the end of this course, you will know how to use a variety of ensemble algori
 ### Assumed Knowledge
 
 To fully benefit from the coverage included in this course, you will need:
+
 ●	Working Python 3 knowledge
+
 ●	Ability to run simple commands in shell (Terminal)
+
 ●	Some basic ML experience
 
 To fully benefit from the coverage included in this course, you will need:
@@ -33,12 +36,17 @@ To fully benefit from the coverage included in this course, you will need:
 This course has the following software requirements:
 
 ●	Conda package manager with Python3.7 (https://conda.io/en/master/miniconda.html )
+
 ●	Conda python packages: jupyter, scikit-learn (sklearn), matplotlib, pandas, mlxtend, xgboost
 
 This course has been tested on the following system configuration:
+
 ●	OS: macOS High Sierra
+
 ●	Processor: 1,3 GHz Intel Core 5
+
 ●	Memory: 4 GB
+
 ●	Storage: 121 GB
 
 
